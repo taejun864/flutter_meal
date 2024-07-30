@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_meals/models/meal.dart';
-import 'package:transparent_image/transparent_image.dart';
 
 class MealDetailScreen extends StatelessWidget {
   const MealDetailScreen({super.key, required this.meal});
